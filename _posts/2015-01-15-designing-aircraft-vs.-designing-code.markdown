@@ -2,7 +2,7 @@
 published: true
 title: Designing Aircraft vs. Designing Code
 layout: post
-image: http://martin.scorsese.odysseeducinema.fr/galerie/Aviator/Aviator10.jpg
+image: /_imgs/Aviator.jpg
 ---
 Easy choice, right?
 
