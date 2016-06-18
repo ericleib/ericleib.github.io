@@ -8,7 +8,7 @@ layout: default
     {% for post in paginator.posts %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          {% if page.image %}
+          {% if post.image %}
              <img src='{{ post.image }}'/>
           {% endif %}
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
