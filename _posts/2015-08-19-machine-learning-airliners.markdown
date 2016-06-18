@@ -118,12 +118,12 @@ However, at some point I must have found a pretty effective CNN architecture, as
 | Class | Accuracy | Error rate | Actual | Predicted |
 |----------------------------------------------------------------------|
 | Boeing 787-8 |	76.2% |	23.8% |	1000 |	1058 |
-| Airbus A380	74.1% |	25.9% |	1000 |	1044 |
-| Airbus A320	84.5% | 	15.5% |	1000 |	982 |
-| Boeing 737-800	87.5% |	12.5% |	1000 |	955 |
-| Airbus A330-300	78.2% |	21.8% |	1000 |	889 |
-| Boeing 777-200	71.2% |	28.8% |	1000 |	1067 |
-| Boeing 747-400	77.9% |	22.1% |	1000 |	1005 |
+| Airbus A380 |	74.1% |	25.9% |	1000 |	1044 |
+| Airbus A320 |	84.5% | 	15.5% |	1000 |	982 |
+| Boeing 737-800 |	87.5% |	12.5% |	1000 |	955 |
+| Airbus A330-300 |	78.2% |	21.8% |	1000 |	889 |
+| Boeing 777-200 |	71.2% |	28.8% |	1000 |	1067 |
+| Boeing 747-400 |	77.9% |	22.1% |	1000 |	1005 |
 
 
 Again, it is pretty hard to understand exactly "what goes on inside". Note that to help analyze their CNNs, Google engineers have recently devised a technique they called "[inceptionism](http://googleresearch.blogspot.fr/2015/06/inceptionism-going-deeper-into-neural.html)", consisting in creating a sort of feedback loop inside the network to enhance the patterns each layer recognizes. The method produces amazing psychedelic pictures that could easily pass as art.
