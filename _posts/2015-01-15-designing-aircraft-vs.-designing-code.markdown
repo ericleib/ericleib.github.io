@@ -1,6 +1,7 @@
 ---
 published: true
 title: Designing Aircraft vs. Designing Code
+image: /imgs/Aviator.jpg
 layout: post
 ---
 Easy choice, right?
