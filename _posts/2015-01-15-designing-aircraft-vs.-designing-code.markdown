@@ -2,7 +2,6 @@
 published: true
 title: Designing Aircraft vs. Designing Code
 layout: post
-categories: [Article]
 ---
 Easy choice, right?
 
