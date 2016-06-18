@@ -2,6 +2,7 @@
 published: true
 title: The case of the People vs. the machines
 layout: post
+image: /imgs/modern-times.jpg
 ---
 In a previous article, I analyzed the progress of various technologies, concluding that Artificial General Intelligence (AGI) was still a long way off. There are, however, many areas where technology is soon going to have a tremendous impact. Many jobs, and perhaps entire industries, are threatened by machines and software.
 
