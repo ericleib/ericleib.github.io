@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ericleib.github.io
+title: Eric Leibenguth
+email: eric.leibenguth@gmail.com
+author: Eric Leibenguth
+description: Professional Blog
+paginate: 10
+google_analytics: 
