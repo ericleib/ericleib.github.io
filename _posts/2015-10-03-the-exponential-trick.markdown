@@ -2,6 +2,7 @@
 published: true
 title: The Exponential Trick
 layout: post
+image: /imgs/Poster-Metropolis_101.jpg
 ---
 The exponential trick is something you probably stumbled upon if you read a lot of articles about technology emanating from the Silicon Valley, or if you watch a lot of TED talks. It goes essentially like this: "Exponential phenomena are deceivingly slow at first, but then explode extremely fast. So a technology that is seemingly insignificant today may change the world tomorrow". This argument is usually backed by a riddle, such as:
 
