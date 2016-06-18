@@ -1,7 +1,8 @@
 ---
 published: true
-title: Startup Weekend Toulouse 2015: Wow!
+title: Startup Weekend Toulouse 2015
 layout: post
+image: imgs/matthew_mcconaughey.jpg
 ---
 Awesome, amazing, extraordinary, eye-opening, life-changing... Those are just words. Metaphors are cooler. I went to the Startup Weekend to dip my toes in the pond of Toulouse's entrepreneurial ecosystem. Instead, I got the full bathing and back-scrubbing treatment. Let's put it another way: I felt like a goldfish having managed to dive out of his [large comfy fishbowl](http://www.airbus.com/). Let me tell you how hard it was to breathe.
 
