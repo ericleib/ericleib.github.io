@@ -2,7 +2,7 @@
 published: true
 title: Startup Weekend Toulouse 2015
 layout: post
-image: imgs/matthew_mcconaughey.jpg
+image: /imgs/matthew_mcconaughey.jpg
 ---
 Awesome, amazing, extraordinary, eye-opening, life-changing... Those are just words. Metaphors are cooler. I went to the Startup Weekend to dip my toes in the pond of Toulouse's entrepreneurial ecosystem. Instead, I got the full bathing and back-scrubbing treatment. Let's put it another way: I felt like a goldfish having managed to dive out of his [large comfy fishbowl](http://www.airbus.com/). Let me tell you how hard it was to breathe.
 
@@ -33,7 +33,7 @@ To my surprise, I managed to get enough votes (8 for the record) to be selected 
 
 The next step was to recruit a team. This happened rather informally. I just tried to talk to as many people as possible about the "Reverse Academy". Although I got the attention of quite a few of them, I had trouble getting firm commitments. I am not sure why, but if I had to guess I would say that it is because I am not good at selling ideas. Having a background in engineering and science, I was never trained to convince people. Instead of making the idea sound sexy and bankable, I made it sound abstract and theoretical. Hey, don't blame me, it's what I do for a living! Somehow, this flaw turned in my favor because, instead of recruiting a large team of inexperienced people, I formed a small team of bright and experienced people (I guess they understood the cool idea behind the poor speech). There were four of us: Arnaud, Joran, Gwendoline and myself.
 
-![The Reverse-Academy Dream Team](imgs/RA_team.jpg)
+![The Reverse-Academy Dream Team](/imgs/RA_team.jpg)
 
 We had about two nights and two days of work ahead of us. I only had a vague intuition of what we should be doing during this time. Fortunately, the rest of team knew exactly what to do.
 
