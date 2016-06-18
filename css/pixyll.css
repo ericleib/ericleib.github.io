@@ -108,6 +108,11 @@ body {
   padding-bottom: 0;
 }
 
+.post {
+  position:relative;
+  overflow:hidden;
+}
+
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
