@@ -13,6 +13,10 @@
 
 */
 
+post-content {
+  text-align: justify;
+}
+
 body {
   font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
 }
