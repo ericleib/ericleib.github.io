@@ -2,6 +2,7 @@
 published: true
 title: Four Months of Lessons - Eight to go
 layout: post
+image: /imgs/jamesstewart.jpg
 ---
 If I was on a trip around the world, I would probably be somewhere in India or in the Rocky mountains, depending on which direction I'd had taken initially. But, well, I am not (sigh). Instead, I am struggling to get some crazy ideas to see the light of day. Surely I have missed a few stunning landscapes, and lots of amazing food, but in turn I got to learn a few things along my own path. This article is to share with you some of the valuable lessons I have collected so far from this adventure.
 
