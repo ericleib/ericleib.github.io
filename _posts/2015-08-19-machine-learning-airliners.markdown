@@ -8,7 +8,6 @@ Over the last month I dived into the fascinating field of Machine Learning. My m
 My source code is fully available on [GitHub](https://github.com/ericleib/planespotter). Feel free to have a look, test it with some aircraft pictures and give me some feedback!
 
 ## About Machine Learning ##
-
 > Machine learning is a subfield of computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence (Wikipedia). 
 
 There are various reasons why this is a field of utmost interest, especially for technology startups.
@@ -17,7 +16,7 @@ Artificial intelligence was traditionally thought of as the accumulation of many
 
 But what does *"understanding"* mean, you ask? It seems like something only humans would be able to do. Well, a possible definition of "understanding" is *the capacity to recognize abstract patterns from complex, repeated inputs, and draw conclusions from them*. Let's take a simple example. Look closely at the following:
 
-<b style="text-align:center;"><i>2 + 2 = ?</i></b>
+<p style="text-align:center;"><b><i>2 + 2 = ?</i></b></p>
 
 Here is what just happened in your brain (provided you went to elementary school):
 
@@ -99,6 +98,7 @@ Nevertheless, I did obtain some results with OpenIMAJ. The training took a bit o
 | Boeing 777-200	| 11.4%	| 88.6%	| 3571	| 1625 |
 | Airbus a320	| 30.2%	| 69.8%	| 3571	| 2319 |
 
+
 Note that the accuracy score of a random classifier for 7 classes would be of 14.3%, so this classifier is about 23% better than pure randomness... This is better than the average human, but certainly not better than an average human who would have been trained with a hundred thousand pictures.
 
 Notice that my classifier seems to largely over-predict certain models over others. Why does this happen? No idea. This is one problem with machine learning: It is very difficult to understand the behavior that yields a particular result. This is not surprising though, as a human brain is also extremely difficult to predict.
@@ -124,6 +124,7 @@ However, at some point I must have found a pretty effective CNN architecture, as
 | Airbus A330-300	78.2% |	21.8% |	1000 |	889 |
 | Boeing 777-200	71.2% |	28.8% |	1000 |	1067 |
 | Boeing 747-400	77.9% |	22.1% |	1000 |	1005 |
+
 
 Again, it is pretty hard to understand exactly "what goes on inside". Note that to help analyze their CNNs, Google engineers have recently devised a technique they called "[inceptionism](http://googleresearch.blogspot.fr/2015/06/inceptionism-going-deeper-into-neural.html)", consisting in creating a sort of feedback loop inside the network to enhance the patterns each layer recognizes. The method produces amazing psychedelic pictures that could easily pass as art.
 
