@@ -11,7 +11,7 @@ layout: default
           {% if post.image %}
              <img src='{{ post.image }}' style="width:250px;float:left;margin-right:15px;"/>
           {% endif %}
-          <div style="display:inline-block; max-width:500px;">
+          <div class="post-label">
             <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
             <h3 class="h2 post-title">{{ post.title }}</h3>
             <p class="post-summary">{{ post.summary }}</p>
