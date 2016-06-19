@@ -3,6 +3,7 @@ published: true
 title: Serious Scratch
 layout: post
 image: /imgs/scratch-from-mit.jpg
+redirect_from: /projects/serious-scratch
 ---
 [Scratch](https://scratch.mit.edu/) is a wonderful online application developed by the MIT Media Lab, that teaches kids how to make their first programs. It is very simple to use, and does not consist in boring code-typing. Millions of kids have been creating and sharing programs in the last years. Their creations are very diverse, ranging from simple animations to sophisticated video games. In fact, I first came across Scratch while searching for a visual programming environment that would be user-friendly enough to be used by engineers to describe and run complex processes.
 
