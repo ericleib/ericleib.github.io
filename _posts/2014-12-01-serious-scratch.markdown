@@ -2,8 +2,9 @@
 published: true
 title: Serious Scratch
 layout: post
+image: /imgs/scratch-from-mit.jpg
 ---
-Scratch is a brilliant online application developed by the MIT Media Lab, that teaches kids how to make their first programs. It is very simple to use, and does not consist in boring code-typing. Millions of kids have been creating and sharing programs in the last years. Their creations are very diverse, ranging from simple animations to sophisticated video games. In fact, I first came across Scratch while searching for a visual programming environment that would be user-friendly enough to be used by engineers to describe and run complex processes.
+Scratch is a wonderful online application developed by the MIT Media Lab, that teaches kids how to make their first programs. It is very simple to use, and does not consist in boring code-typing. Millions of kids have been creating and sharing programs in the last years. Their creations are very diverse, ranging from simple animations to sophisticated video games. In fact, I first came across Scratch while searching for a visual programming environment that would be user-friendly enough to be used by engineers to describe and run complex processes.
 
 In Scratch, kids can define various objects (actual objects: shapes, pictures, characters...) and attach code to these objects. Again, "code" might not be the right word. Any possible code token (variable, function, operator, assignment, event...) comes as a block that one can drag&drop in the model. The blocks nicely fit into one another like Legos, removing any risks for syntax errors. Programs can be easily debugged by following which blocks are active in real time. The output of the program is displayed on a 2D area, which is also used for interacting with the users (responding to mouse clicks for instance).
 
