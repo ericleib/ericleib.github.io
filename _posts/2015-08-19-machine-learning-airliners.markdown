@@ -3,6 +3,7 @@ published: true
 title: Machine Learning & Airliners
 layout: post
 image: /imgs/ai.jpg
+redirect_from: /blog/machine-learning-airliners
 ---
 Over the last month I dived into the fascinating field of Machine Learning. My motivation was to learn about some of the cutting-edge methods used and developed by research labs and tech companies around the world. As I was looking for an original and challenging use-case to take on, I thought of creating an application that could recognize an airliner's make & model from a simple photograph (similar to this [car-spotting application](https://itunes.apple.com/us/app/carcapture/id935079140?mt=8)). This article describes my attempts and results.
 
