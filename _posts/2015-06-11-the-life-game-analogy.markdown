@@ -3,6 +3,7 @@ published: true
 title: The Life-Game Analogy
 layout: post
 image: /imgs/revolver.jpg
+redirect_from: /blog/lifegame-analogy
 ---
 *"Live your life like a game"* (Raise your hand if you've heard this before). Below the surface of the apparently vacuous cliché, and beyond the obvious and widely-covered parallels between life and games, lie some useful considerations that I expose below.
 
