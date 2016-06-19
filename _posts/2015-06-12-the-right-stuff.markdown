@@ -3,6 +3,7 @@ published: true
 title: The Right Stuff
 layout: post
 image: /imgs/yeager.jpg
+redirect_from: /blog/four-months-lessons-eight-go
 ---
 In an [interview](https://www.youtube.com/watch?v=vDwzmJpI4io) self-described as “epic”, famous entrepreneur (and personal idol of mine) Elon Musk, founder of Paypal, SpaceX and Tesla, described to Salman Khan (Khan Academy) the difficulty of starting a business. A particular passage stuck with me for some time: *“You have to do what the company needs you to do, not what you like to do”*. The quote sounds almost silly. Obviously, you are working for the company, so why would you do anything besides the what the company needs?
 
