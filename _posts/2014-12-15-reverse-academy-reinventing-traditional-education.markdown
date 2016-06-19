@@ -3,6 +3,7 @@ published: true
 title: Reverse-Academy - Reinventing Traditional Education
 layout: post
 image: /imgs/dead-poets-society.jpg
+redirect_from: /projects/reverse-academy
 ---
 *(I wrote this article in late 2014 and then presented the idea at the [Startup Weekend Toulouse event in 2015](/2015/04/04/startup-weekend-toulouse-2015-wow.html))*
 
