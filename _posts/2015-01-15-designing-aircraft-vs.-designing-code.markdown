@@ -3,6 +3,7 @@ published: true
 title: Designing Aircraft vs. Designing Code
 image: /imgs/Aviator.jpg
 layout: post
+redirect_from: /blog/designing-aircraft-vs-designing-code
 ---
 Easy choice, right?
 
