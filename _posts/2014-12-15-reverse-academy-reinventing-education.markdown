@@ -1,6 +1,6 @@
 ---
 published: true
-title: Reverse-Academy - Reinventing Traditional Education
+title: Reverse-Academy - Reinventing Education
 layout: post
 image: /imgs/dead-poets-society.jpg
 redirect_from: /projects/reverse-academy
