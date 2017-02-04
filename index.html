@@ -1,21 +1,34 @@
 ---
 layout: default
+redirect_from:
+  - /blog
+  - /projects
+  - /about
 ---
 
 <div class="home">
+  
+  <p style="margin-top:20px;margin-bottom:40px ;">{{site.bio}}</p>
 
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-          <h3 class="h2 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.summary }}</p>
+          {% if post.image %}
+             <img src='{{ post.image }}' style="width:250px;float:left;margin-right:15px;"/>
+          {% endif %}
+          <div class="post-label">
+            <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <h3 class="h2 post-title">{{ post.title }}</h3>
+            <p class="post-summary">{{ post.summary }}</p>
+          </div>
         </a>
       </div>
+      <div style="clear: both;"></div>
     {% endfor %}
   </div>
-
+  
+  
   {% include pagination.html %}
 
   <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->

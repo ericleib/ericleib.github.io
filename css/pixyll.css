@@ -88,6 +88,10 @@ body {
   opacity: 0.88;
 }
 
+.post-label {
+  display: inline-block;
+}
+
 .post-content {
   text-align: justify;
 }
@@ -106,6 +110,11 @@ body {
   border-bottom: none;
   margin-bottom: .5rem;
   padding-bottom: 0;
+}
+
+.post {
+  position:relative;
+  overflow:hidden;
 }
 
 .post-link .post-title {
@@ -247,6 +256,11 @@ h6 {
 }
 
 @media screen and (max-width: 48em) {
+  
+  .post-label {
+    width: 100%;
+  }
+
   .site-header {
     text-align: center;
   }
@@ -261,6 +275,11 @@ h6 {
 }
 
 @media screen and (min-width: 48em) {
+  
+  .post-label {
+    width: 400px;
+  }
+  
   .meta,
   .post-meta {
     margin: 0;
@@ -315,6 +334,11 @@ h6 {
 }
 
 @media screen and (min-width: 64em) {
+  
+  .post-label {
+    width: 500px;
+  }
+  
   .h1,
   h1 {
     font-size: 4.5rem;
