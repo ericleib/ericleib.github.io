@@ -8,6 +8,8 @@ redirect_from: /projects/quadrupedes
 
 In early 2016, I teamed up with Thierry, a colleague from Airbus, to prototype a small quadrupede robot. The idea was to build a sophisticated (but low-cost) platform for teaching robotics to high-school or university students.
 
+Quadrupedes are tricky, because they are unstable, very nonlinear and have many degrees of freedom, unlike the typical wheeled robots that dominate the market of robots for education. We do not always realize that, because walking seems so easy to us. But walking smoothly on uneven terrain requires an incredible amount of dexterity and precision.
+
 After two months of work, we got the robot to walk and even run rather well. Unfortunately this was then the end of my sabbatical year, and I went back to work for Airbus, leaving the project a bit on the side of the road. The next step would have been to work with teachers and students to get their feedback and perfect our design.
 
 I had already open-sourced a [robot simulator](https://github.com/ericleib/RobotSim) built with the great [Processing](https://processing.org/) tool from MIT. The simulator allows to tune gait parameters (more than 15) in real time, in order to visualize and optimize the complex moves performed by the robot.
