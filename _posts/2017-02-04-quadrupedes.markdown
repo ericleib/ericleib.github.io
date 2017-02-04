@@ -26,7 +26,7 @@ I never found time to properly document this work, which I am quite proud of (th
 </div>
 
 <div style="text-align:center;">
-<iframe width="100%" src="https://www.youtube.com/embed/nCLcqnA6c5Y">
+<iframe width="640" height="480" src="https://www.youtube.com/embed/nCLcqnA6c5Y">
 </iframe>
 <p><i>Our first prototype in action!</i></p>
 </div>
