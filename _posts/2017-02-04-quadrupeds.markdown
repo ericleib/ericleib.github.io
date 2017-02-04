@@ -20,7 +20,7 @@ The robot can be controlled remotely, with a smartphone, which can update any of
 
 The robot structure can be 3D-printed in a few hours. The robot has 12 servomotors (3 per leg), controled with PWM signals from the Arduino DUE. It weights around 500g (including the battery) and should cost between 100-150€ (parts only).
 
-I never found time to properly document this work, which I am quite proud of (the work, not the lack of documentation)! As pictures are worth a thousand words, I post below some screenshots, animations and videos that illustrate the projects.
+I never found time to properly document this work, which I am quite proud of (the work, not the lack of documentation)! As pictures are worth a thousand words, I post below some screenshots, animations and videos that illustrate the project.
 
 <div style="text-align:center;">
 <img src="/imgs/robotsim.gif" alt="Robot Simulator" style="width: auto;max-width: 100%;">
