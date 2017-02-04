@@ -1,14 +1,14 @@
 ---
 published: true
-title: Quadrupedes
+title: Quadrupeds
 layout: post
 image: /imgs/atat.jpg
-redirect_from: /projects/quadrupedes
+redirect_from: /projects/quadrupeds
 ---
 
 In early 2016, I teamed up with Thierry, a colleague from Airbus, to prototype a small quadrupede robot. The idea was to build a sophisticated (but low-cost) platform for teaching robotics to high-school or university students.
 
-Quadrupedes are tricky, because they are unstable, very nonlinear and have many degrees of freedom, unlike the typical wheeled robots that dominate the market of robots for education. We do not always realize that, because walking seems so easy to us. But walking smoothly on uneven terrain requires an incredible amount of dexterity and precision.
+Quadrupeds are tricky, because they are unstable, very nonlinear and have many degrees of freedom, unlike the typical wheeled robots that dominate the market of robots for education. We do not always realize that, because walking seems so easy to us. But walking smoothly on uneven terrain requires an incredible amount of dexterity and precision.
 
 After two months of work, we got the robot to walk and even run rather well. Unfortunately this was then the end of my sabbatical year, and I went back to work for Airbus, leaving the project a bit on the side of the road. The next step would have been to work with teachers and students to get their feedback and perfect our design.
 
